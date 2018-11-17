@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/ronggong/anaconda3/envs/pianoAI/bin/python",
+    "python.unitTest.pyTestArgs": [
+        "test"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true
+}
